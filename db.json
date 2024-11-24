@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Stylish Sneakers",
+      "price": 59.99,
+      "image": "https://images.pexels.com/photos/52518/jeans-pants-blue-shop-52518.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Comfortable and stylish sneakers perfect for everyday wear."
+    },
+    {
+      "id": 2,
+      "name": "Elegant Watch",
+      "price": 129.99,
+      "image": "/assets/products/watch.jpg",
+      "description": "An elegant watch to complement your attire."
+    }
+  ]
+}
